@@ -1,0 +1,135 @@
+id; russian; english
+
+1; Аудиоредактор от DmitryO325; Audio editor by DmitryO325
+
+10; Проигрыватель; Player
+11; Редактор; Editor
+
+100; Файл; File
+101; Открыть файлы; Open files
+102; Открыть папку; Open a folder
+
+200; Воспроизведение; Playback
+201; Скорость; Speed
+
+210; Перемотка назад; Rewind to back
+211; Перемотка вперёд; Rewind to forward
+212; Переход к указанному времени; Transition to the specified time
+
+220; Воспроизвести; Play
+221; Пауза; Pause;
+222; Стоп; Stop
+
+230; Предыдущая композиция; Previous composition
+231; Следующая композиция; Next composition
+
+240; Повторить композицию; Repeat the composition
+
+300; Аудио; Audio
+
+310; Уменьшить громкость; Reduce the volume
+311; Увеличить громкость; Increase the volume
+312; Выключить звук; Turn off the sound
+
+400; Настройки; Options
+401; Язык; Language
+
+500; Настройки языка; Language settings
+501; Выберите язык:; Select the language:
+
+510; Русский; Russian
+511; Английский; English
+
+520; ОК; OK
+521; Отмена; Cancel
+
+600; Редактор; Editor
+601; Открыть редактор; Open editor
+
+700; Плейлист; Playlist
+
+710; Добавить в плейлист; Add to playlist
+711; Удалить из плейлиста; Delete from playlist
+
+720; Очистить плейлист; Clear playlist
+721; Сохранить плейлист; Save playlist
+722; Открыть плейлист; Open playlist
+
+800; Название; Title
+801; Формат; Format
+802; Длительность; Duration
+
+900; Законный отдых; Legal rest
+901; Проигрыватель в отпуске; The player is on vacation
+902; Ждём-с; I'm waiting, sir
+903; Хорошо отдыхать); How good it is to rest)
+904; Дайте поработать!; Let me work!
+905; Я счастлив, очень счастлив); I am happy, very happy)
+906; Не люблю работать... и музыку; I don't like to work... and music
+907; Только попробуйте!; Just try it!
+908; Раз уж Вы здесь, включите что-нибудь; Since you're here, turn on something
+909; Музыка, музыка... надоело.; Music, music... tired of it.
+910; Надеюсь, Вам не нужно ничего объяснять; I hope you don't need to explain anything
+
+1000; {} файл; {} file
+1001; Файлы формата {} не поддерживаются...; Format files {} aren't supported...
+1002; занят другой программой; is busy with another program
+
+1100; Сохранение; Saving
+1101; Сохранить плейлист?; Save the playlist?
+
+1110; Да; Yes
+1111; Нет; No
+
+1200; Выберите папку или файл, в который хотите внести изменения; Select the folder or file you want to make changes to
+1201; Выберите плейлист, который хотите открыть; Select the playlist you want to open
+1202; Выберите аудиофайл, который хотите открыть; Select the audio file you want to open
+1203; Выберите аудиофайлы, которые хотите открыть; Select the audio files you want to open
+1204; Выберите папку, которую хотите открыть; Select the folder you want to open
+
+1210; Аудиофайлы; Audio files
+1211; Базы данных; Data bases
+
+1300; Путь:; Path:
+1310; Нет такого файла!; There is no such file!
+1320; Обрезка невозможна!; Cropping is impossible!
+
+1400; Хорошие новости!; Good news!
+1401; Аудиофайл успешно сохранён!; The audio file has been saved successfully!
+
+1410; Плохие новости!; Плохие новости!
+1411; Неверный формат аудиофайла...; Invalid audio file format...
+
+1500; Плейлист; Playlist
+
+1600; Ошибка сохранения; Saving error
+1601; Недопустимое имя файла:; Invalid file name:
+
+1700; Сейчас; Now
+1701; Планируется; Is planned
+
+1710; Аудиофайл; Audio file
+1711; Частота дискретизации; Sampling rate
+1712; Количество аудиоканалов; Number of audio channels
+1713; Количество кадров; Number of frames
+
+1800; Время аудиозаписи:; Audio recording time:
+1801; Итоговое время аудиозаписи:; Final audio recording time:
+
+1810; Громкость:; Volume:
+
+1820; Новый путь:; New path:
+
+1900; Обрезать слева; Crop on the left
+1901; Обрезать справа; Crop on the right
+
+1910; Открыть файл по ссылке; Open the file using the link
+1911; Выбрать файл; Select a file
+
+1920; Сохранить аудиофайл; Save the audio file
+
+2000; Не изменять размер и структуру аудиофайла; Don't change the size and structure of the audio file
+2001; Изменить размер и структуру аудиофайла; Change the size and structure of the audio file
+
+2100; Ошибка в работе файла; Error in the file operation
+2101; При работе с файлом возникла непредвиденная ошибка.; An unexpected error occurred while working with the file.
